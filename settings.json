@@ -8,7 +8,7 @@
   "server": {
     "ip": "RUSH123239-oDH4.aternos.me",
     "port": 64159,
-    "version": "26.3"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
@@ -58,7 +58,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
